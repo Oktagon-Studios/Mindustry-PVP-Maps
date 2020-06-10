@@ -10,4 +10,4 @@ The Mindustry Arena: None
 
 Mods Recommended for Maps:
 ------------------------------
-The Mindustry Arena: Mechanical Warfare(by Glenn Folker + Jericho Fletcher)
+The Mindustry Arena: Mechanical Warfare(by GlennFolker + JerichoFletcher)
